@@ -173,6 +173,6 @@ Module['FS_createPath']('/NotAGame/Content', 'Paks', true, true);
   }
 
  }
- loadPackage({"files": [{"start": 0, "audio": 0, "end": 53, "filename": "/Manifest_NonUFSFiles_HTML5.txt"}, {"start": 53, "audio": 0, "end": 89, "filename": "/UE4CommandLine.txt"}, {"start": 89, "audio": 0, "end": 32741665, "filename": "/NotAGame/Content/Paks/NotAGame-HTML5.pak"}], "remote_package_size": 32741665, "package_uuid": "f76f5f15-e0a9-4ddb-8771-9caa3fecb53e"});
+ loadPackage({"files": [{"start": 0, "audio": 0, "end": 53, "filename": "/Manifest_NonUFSFiles_HTML5.txt"}, {"start": 53, "audio": 0, "end": 89, "filename": "/UE4CommandLine.txt"}, {"start": 89, "audio": 0, "end": 27451824, "filename": "/NotAGame/Content/Paks/NotAGame-HTML5.pak"}], "remote_package_size": 27451824, "package_uuid": "64e24057-6da1-4fde-8ab0-2c1f102820c2"});
 
 })();
