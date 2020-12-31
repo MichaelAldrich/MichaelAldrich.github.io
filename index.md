@@ -7,4 +7,4 @@ Computer graphics pipelines are filled with specialists of every kind, and build
 
 Prototyping and iteration are core to my workflow. My first priority when presented with a new problem is to go around the cycle of create, present, and critique. This process provides context for making long term plans by laying bare the constraints of what "finished" really means.  
 
-You can download my [resume here](resume.pdf) and you can find me on [linkedin here](https://www.linkedin.com/in/michaeljaldrich/)
+You can download my [resume here](resume.pdf) and you can find me on [github here](https://github.com/MichaelAldrich) and [linkedin here](https://www.linkedin.com/in/michaeljaldrich/)
