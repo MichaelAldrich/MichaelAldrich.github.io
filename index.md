@@ -1,4 +1,4 @@
-![profile_image](profile.jpg)
+<img src="profile.jpg" alt="drawing" width="25%"/>
 
 ## Building great tools to enable great work.  
 Tools are built to allow us to work faster, smarter, and easier. The best tools remove obstacles and allow us to focus on the problems that we're experts at solving.  
